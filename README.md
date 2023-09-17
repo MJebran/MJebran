@@ -60,6 +60,7 @@ hobbies: ["Gaming", "Cinema", "Gym"]
  <!-- <img src="" alt="php" width="45" height="45"/> -->
 </p>
 
-![Mustafa Jebran's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJebran&show_icons=true&theme=tokyonight)
+![Mustafa Jebran's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJebran&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjebran&layout=compact)](https://github.com/mjebran/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
