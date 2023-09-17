@@ -55,12 +55,12 @@ hobbies: ["Gaming", "Cinema", "Gym"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="php" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45" />
  <!-- <img src="" alt="php" width="45" height="45"/> -->
 </p>
 
 ![Mustafa Jebran's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJebran&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjebran&layout=compact)](https://github.com/mjebran/github-readme-stats)
-
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 
