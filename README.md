@@ -14,7 +14,7 @@
 
 name: Mustafa Jebran
 located_in: Utah, US
-current_job: TA, IT security
+current_job: Intern at Snow College, IT security
 Contact: jebran.mustafa@gmail.com
 education:
   [
