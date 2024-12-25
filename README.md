@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/mustafajebran/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://mustafajebran.netlify.app/">
+    <img src="https://img.shields.io/badge/WebSite-purpal?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    
+  </a>
 </div>
 
 ```yaml
