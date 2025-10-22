@@ -38,7 +38,7 @@ technical_background:
     "...",
   ]
 currently_learning: ["PSQL, C#, Python"]
-2023 Goals: ["..."]
+2025 Goals: ["Geting a Job lol"]
 hobbies: ["Gaming", "Cinema", "Gym"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
