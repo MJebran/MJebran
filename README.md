@@ -61,7 +61,6 @@ hobbies: ["Gaming", "Cinema", "Gym"]
 </p>
 
 
-![Mustafa Jebran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjebran&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjebran&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mjebran&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/mjebran/mjebran/blob/output/github-contribution-grid-snake.svg)
