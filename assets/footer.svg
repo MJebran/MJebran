@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 132" width="700" height="132">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+    .hud { font-family: 'Courier New', monospace; font-weight: 700; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .fade { opacity: 0; animation: fadein 0.6s ease-out forwards; }
+    @keyframes fadein { to { opacity: 1; } }
+  </style>
+
+  <rect width="700" height="132" rx="12" fill="#0f172a"/>
+  <rect x="0.5" y="0.5" width="699" height="131" rx="12" fill="none" stroke="#334155"/>
+  <text class="hud" x="32" y="42" font-size="12" fill="#64748b">ahmad@fireflystack:~$ echo "$MISSION"</text>
+  <text x="32" y="76" font-size="15.5" fill="#f8fafc"><tspan fill="#34D399">&#8220;</tspan>Building software that helps businesses grow &#8212; one project at a time.<tspan fill="#34D399">&#8221;</tspan></text>
+  <text class="hud" x="32" y="106" font-size="11" fill="#475569">[process completed &#8212; thanks for scrolling]</text>
+  <text class="hud cursor" x="310" y="106" font-size="11" fill="#34D399">&#9608;</text>
+  <rect x="562" y="94" width="10" height="10" rx="2.5" fill="#F87171"/><rect x="578" y="94" width="10" height="10" rx="2.5" fill="#F59E0B"/><rect x="594" y="94" width="10" height="10" rx="2.5" fill="#34D399"/><rect x="610" y="94" width="10" height="10" rx="2.5" fill="#60A5FA"/><rect x="626" y="94" width="10" height="10" rx="2.5" fill="#A78BFA"/><rect x="642" y="94" width="10" height="10" rx="2.5" fill="#22D3EE"/><rect x="658" y="94" width="10" height="10" rx="2.5" fill="#F472B6"/>
+</svg>
